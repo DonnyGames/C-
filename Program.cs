@@ -22,11 +22,9 @@ if(playresponse == "Play"){
 
  var name = Console.ReadLine();
 
- if(name == "Marc Erso"){
-   Console.WriteLine("Marc tief de fuck up op pls en waag het je age in te vullen als je moeder");
- }
+
  
-  else if(name == "Jason"){
+ if(name == "Jason"){
    Console.WriteLine("Hallo meneer java :)))");
  }
 
