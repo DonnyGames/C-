@@ -1,0 +1,15 @@
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\bin\Debug\net7.0\C# onderzoek.exe
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\bin\Debug\net7.0\C# onderzoek.deps.json
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\bin\Debug\net7.0\C# onderzoek.runtimeconfig.json
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\bin\Debug\net7.0\C# onderzoek.dll
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\bin\Debug\net7.0\C# onderzoek.pdb
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.csproj.AssemblyReference.cache
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.AssemblyInfoInputs.cache
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.AssemblyInfo.cs
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.csproj.CoreCompileInputs.cache
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.dll
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\refint\C# onderzoek.dll
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.pdb
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\C# onderzoek.genruntimeconfig.cache
+C:\Users\donny\OneDrive\Desktop\codeshit\C# onderzoek\obj\Debug\net7.0\ref\C# onderzoek.dll
